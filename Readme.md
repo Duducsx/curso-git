@@ -9,3 +9,7 @@ Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
 
 Adcionando uma mensagem para ser registrada (aula diff)
 
+
+ Adcionando alguma coisa só pra constar no status
+ 
+
